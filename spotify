@@ -1,0 +1,8 @@
+This simplified Spotify clone project allows you to add songs to a playlist and control playback.
+It includes features like playing the current song, moving to the next
+or previous song in the playlist, and displaying the playlist.
+
+Please note that this example doesn't include features like audio streaming, user authentication,
+or music catalog management, which are integral to the real Spotify app. 
+Building a complete Spotify clone with all its advanced features would require a more 
+comprehensive and sophisticated implementation using languages and frameworks like JavaScript, Python, or Swift.
